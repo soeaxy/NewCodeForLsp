@@ -1,1 +1,7 @@
 /data
+*.gdb
+*.tbx
+*.aprx
+/ImportLog
+/ExportImage
+*.mxd
